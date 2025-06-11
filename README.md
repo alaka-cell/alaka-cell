@@ -14,9 +14,19 @@
 
 ---
 
+### 🏆 Top Languages
+
+<p>
+  💡 My most-used and strongest languages are:
+  <br><br>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
 ### 🔧 Tools & Technologies
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
@@ -29,7 +39,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alaka&show_icons=true&theme=radical" alt="Alaka's GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaka&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaka&layout=compact&theme=radical&langs_count=6&hide=javascript,html" alt="Top Languages" />
 </p>
 
 ---
@@ -42,7 +52,12 @@
 
 ---
 
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)
+
 Let’s connect and collaborate!
+
 
 
 <!---
