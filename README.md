@@ -38,8 +38,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alaka&show_icons=true&theme=radical" alt="Alaka's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaka&layout=compact&theme=radical&langs_count=6&hide=javascript,html" alt="Top Languages" />
 </p>
 
 ---
@@ -51,10 +49,6 @@
 - Always eager to learn, grow, and try new things 🚀
 
 ---
-
-### 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)
 
 Let’s connect and collaborate!
 
