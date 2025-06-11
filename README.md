@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="ChatGPT%20Image%20Jun%2011,%202025,%2005_57_06%20PM.png" alt="Alaka | Data & Strategy Enthusiast Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi there, I'm Alaka 👋</h1>
 
 <p align="center">
@@ -35,6 +31,7 @@
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
 
 ---
 
