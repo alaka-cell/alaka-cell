@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-banner.png" alt="Alaka | Data & Strategy Enthusiast Banner" width="100%" />
+  <img src="ChatGPT%20Image%20Jun%2011,%202025,%2005_57_06%20PM.png" alt="Alaka | Data & Strategy Enthusiast Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Alaka 👋</h1>
@@ -36,7 +36,6 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
-
 ---
 
 ### ✨ Fun Facts
@@ -48,6 +47,7 @@
 ---
 
 Let’s connect and collaborate!
+
 
 
 
