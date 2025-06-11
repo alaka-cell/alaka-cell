@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.png" alt="Alaka | Data & Strategy Enthusiast Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi there, I'm Alaka 👋</h1>
 
 <p align="center">
@@ -32,13 +36,6 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alaka&show_icons=true&theme=radical" alt="Alaka's GitHub Stats" />
-</p>
 
 ---
 
@@ -51,6 +48,7 @@
 ---
 
 Let’s connect and collaborate!
+
 
 
 
