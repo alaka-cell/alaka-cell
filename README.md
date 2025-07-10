@@ -71,7 +71,7 @@ Search any product and compare live prices, matches, and AI-generated summaries 
 I love building things that mix scraping, automation, LLMs, and real-time UI. Always learning, always shipping.
 
 ---
-
+</p>
 <!---
 alaka-cell/alaka-cell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
