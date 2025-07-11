@@ -59,7 +59,7 @@
 </p>
 ---
 
-### Project Spotlight
+## Project Spotlight
 
 **Beauty Product Comparator (Under construction 🚧)**  
 Search any product and compare live prices, matches, and AI-generated summaries across 4 e-commerce platforms—completely local and lightning-fast.
