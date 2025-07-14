@@ -21,11 +21,6 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-#### Game Development
-<p>
-  <img src="https://img.shields.io/badge/-Pygame-0e1117?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CryEngine-1E1E1E?style=for-the-badge&logo=cryengine&logoColor=white"/>
-</p>
 
 #### Web Scraping & Automation
 <p>
@@ -56,6 +51,7 @@
   <img src="https://img.shields.io/badge/-Uvicorn-303030?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Requests-214A72?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-dotenv-000000?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-Pygame-0e1117?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 #### Version Control
