@@ -72,7 +72,7 @@
 
 ### 💬 Let's Talk
 
-I love building things that mix scraping, automation, game dev, and LLMs. Always learning, always shipping.
+I love building things that mix scraping, automation, game dev, and LLMs.
 
 ---
 <!---
