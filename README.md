@@ -63,7 +63,7 @@
 
 ### Currently Learning
 <p>
-  <img src="https://img.shields.io/badge/-Godot-1E1E1E?style=for-the-badge&logo=cryengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GameMaker-1E1E1E?style=for-the-badge&logo=gamemaker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
