@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/PlT4DtiUuvYAAAAM/i-get-the-job-done-cat.gif" width="200"/>
   <img src="https://media1.tenor.com/m/rCaIUO0MP-EAAAAd/mario-pixel-art.gif" width="200"/>
 </p>
 
