@@ -5,7 +5,13 @@
 </p>
 
 <p align="center">
+  <img src="https://media.tenor.com/PlT4DtiUuvYAAAAM/i-get-the-job-done-cat.gif" width="200"/>
   <img src="https://media1.tenor.com/m/rCaIUO0MP-EAAAAd/mario-pixel-art.gif" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alaka-cell&style=flat-square&color=6A67FE" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/alaka-cell?style=flat-square&color=6A67FE" alt="Followers"/>
 </p>
 
 <p align="center">
@@ -86,7 +92,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaka-cell&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaka-cell&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
 <br/>
