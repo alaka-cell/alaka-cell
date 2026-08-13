@@ -84,18 +84,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alaka-cell&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaka-cell&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaka-cell&theme=react-dark&hide_border=true" width="100%" />
-</p>
-
-<br/>
 
 ## 💬 Let's Talk
 
