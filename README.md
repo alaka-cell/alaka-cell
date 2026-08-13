@@ -9,11 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alaka-cell&style=flat-square&color=6A67FE" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/alaka-cell?style=flat-square&color=6A67FE" alt="Followers"/>
-</p>
-
-<p align="center">
   BCA + Data | Building with Python, scraping the web, experimenting with LLMs, and diving into game dev.
 </p>
 
