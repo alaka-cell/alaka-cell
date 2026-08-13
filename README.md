@@ -5,13 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/PlT4DtiUuvYAAAAM/i-get-the-job-done-cat.gif" width="200"/>
-  <img src="https://gifdb.com/images/branded/high/pixel-art-super-mario-computer-amwdq1xi8bgz0omx.gif" width="200"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alaka-cell&style=flat-square&color=6A67FE" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/alaka-cell?style=flat-square&color=6A67FE" alt="Followers"/>
+  <img src="https://media.gifdb.com/pixel-art-super-mario-computer-amwdq1xi8bgz0omx.gif" width="200"/>
 </p>
 
 <p align="center">
