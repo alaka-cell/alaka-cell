@@ -1,11 +1,17 @@
-<h1 align="center">Hi there, I'm Alaka </h1>
+<h1 align="center">Hi there, I'm Alaka 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6A67FE&center=true&vCenter=true&width=560&lines=Creative%2C+curious%2C+and+code-obsessed.;BCA+%2B+Data+%7C+Python+%2C+Web+Scraping+%2C+LLMs;Currently+diving+into+Game+Dev+%F0%9F%8E%AE" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.gifdb.com/pixel-art-super-mario-computer-amwdq1xi8bgz0omx.gif" width="200"/>
+  <img src="https://media.tenor.com/PlT4DtiUuvYAAAAM/i-get-the-job-done-cat.gif" width="200"/>
+  <img src="https://media1.tenor.com/m/rCaIUO0MP-EAAAAd/mario-pixel-art.gif" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alaka-cell&style=flat-square&color=6A67FE" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/alaka-cell?style=flat-square&color=6A67FE" alt="Followers"/>
 </p>
 
 <p align="center">
