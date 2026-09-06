@@ -1,16 +1,11 @@
-<h1 align="center">Hi there, I'm Alaka </h1>
+<h1 align="center">Hi, I'm Alaka 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6A67FE&center=true&vCenter=true&width=560&lines=Creative%2C+curious%2C+and+code-obsessed.;BCA+%2B+Data+%7C+Python+%2C+Web+Scraping+%2C+LLMs;Currently+diving+into+Game+Dev+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6A67FE&center=true&vCenter=true&width=600&lines=Data+Analytics+%26+Automation+%7C+Python%2C+SQL%2C+Power+BI;Pursuing+a+Master's+in+Computer+Applications;Exploring+MCP+%2C+LLMs+%2C+and+workflow+automation" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/rCaIUO0MP-EAAAAd/mario-pixel-art.gif" width="200"/>
-</p>
-
-
-<p align="center">
-  BCA + Data | Building with Python, scraping the web, experimenting with LLMs, and diving into game dev.
+  Data analytics specialist in the making — I build with Python, automate the repetitive parts of the internet, and enjoy turning messy data into something usable.
 </p>
 
 <br/>
@@ -26,6 +21,14 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
+**Data & Analytics**
+
+<p>
+  <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
 **Web Scraping & Automation**
 
 <p>
@@ -36,29 +39,25 @@
   <img src="https://img.shields.io/badge/-undetected_chromedriver-0e1117?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </p>
 
-**LLMs, Agents & AI Stack**
+**LLMs, Agents & MCP**
 
 <p>
-  <img src="https://img.shields.io/badge/-Chainlit-6A67FE?style=for-the-badge&logo=lightning&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Ollama-3E3E3E?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MCP-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-LangChain-EF3336?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MCP-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Chainlit-6A67FE?style=for-the-badge&logo=lightning&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Ollama-3E3E3E?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
-**Tools & Libraries**
+**Backend & Libraries**
 
 <p>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Asyncio-00599C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Uvicorn-303030?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Requests-214A72?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-dotenv-000000?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Pygame-0e1117?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 **Version Control**
@@ -73,16 +72,21 @@
 ## 📚 Currently Learning
 
 <p>
-  <img src="https://img.shields.io/badge/-GameMaker-1E1E1E?style=for-the-badge&logo=gamemaker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 <br/>
 
+## 🎯 What I'm Looking For
+
+I'm actively exploring **data analytics** and **QA/testing** roles, where I can apply my background in Python, SQL, and automation to help teams work with data — and software — more reliably.
+
+<br/>
 
 ## 💬 Let's Talk
 
-I love building things that mix scraping, automation, game dev, and LLMs — always happy to chat about a project, a weird bug, or a promising new library.
+Happy to talk about a project, a data problem, or a promising new automation tool.
 
 <p align="left">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
