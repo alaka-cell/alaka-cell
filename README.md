@@ -109,10 +109,12 @@
 
 <br/>
 
-## 🏆 Trophies
+## 🎲 Fun Facts
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=alaka-cell&theme=radical&no-frame=true&row=1&column=6"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6A67FE&center=true&vCenter=true&width=600&lines=%F0%9F%90%8D+I+once+scraped+a+website+so+hard+it+rate-limited+me;%E2%98%95+90%25+coffee%2C+10%25+code%2C+100%25+debugging;%F0%9F%A4%96+I+talk+to+LLMs+more+than+people+some+days;%F0%9F%93%8A+Turning+messy+spreadsheets+into+dashboards+since+forever" alt="Fun facts typing SVG"/>
+
 </div>
 
 <br/>
