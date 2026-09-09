@@ -86,8 +86,6 @@
 
 </div>
 
-> The stats/top-langs/activity-graph cards use public instances of `github-readme-stats` and `github-readme-activity-graph` that are frequently overloaded and show broken images — it's a known issue with those free services, not your file. The streak card above uses a different service and is confirmed working. If you want the others back, self-hosting your own copy of `github-readme-stats` on Vercel (free, ~5 min) is the reliable fix — happy to walk you through it.
-
 <br/>
 
 ## 🐍 Contribution Snake
@@ -95,8 +93,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
-
-> This one needs a tiny one-time setup — a GitHub Action that generates the snake SVG from your contribution graph. I've noted how below.
 
 <br/>
 
