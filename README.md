@@ -95,8 +95,6 @@
 
 </div>
 
-> Replace `alaka-cell` above with your actual GitHub username if it's different, or these cards won't render.
-
 <br/>
 
 ## 🐍 Contribution Snake
@@ -104,8 +102,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
-
-> This one needs a tiny one-time setup — a GitHub Action that generates the snake SVG from your contribution graph. I've noted how below.
 
 <br/>
 
