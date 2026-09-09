@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A67FE&height=200&section=header&text=Hi%20There,%20I'm%20Alaka%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%26%20Automation%20|%20Python,%20SQL,%20Power%20BI&descAlignY=55&descSize=18"/>
+# Hi, I'm Alaka 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6A67FE&center=true&vCenter=true&width=700&lines=Data+Analytics+%26+Automation+%7C+Python%2C+SQL%2C+Power+BI;Pursuing+a+Master's+in+Computer+Applications;Exploring+MCP+%2C+LLMs+%2C+and+workflow+automation;Turning+messy+data+into+something+usable" alt="Typing SVG" />
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A67FE&center=true&vCenter=true&width=700&lines=Data+Analytics+%26+Automation+%7C+Python%2C+SQL%2C+Power+BI;Pursuing+a+Master's+in+Computer+Applications;Exploring+MCP+%2C+LLMs+%2C+and+workflow+automation;Turning+messy+data+into+something+usable" alt="Typing SVG" />
 
 </div>
 
@@ -13,8 +11,6 @@
 <p align="center">
   Data analytics specialist in the making — I build with Python, automate the repetitive parts of the internet, and enjoy turning messy data into something usable.
 </p>
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 <br/>
 
@@ -113,11 +109,15 @@
 
 <br/>
 
-## 🎯 What I'm Looking For
+## 🏆 Trophies
 
 <div align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
+<img src="https://github-profile-trophy.vercel.app/?username=alaka-cell&theme=radical&no-frame=true&row=1&column=6"/>
 </div>
+
+<br/>
+
+## 🎯 What I'm Looking For
 
 <p align="center">
 I'm actively exploring <b>data analytics</b> and <b>QA/testing</b> roles, where I can apply my background in Python, SQL, and automation to help teams work with data — and software — more reliably.
@@ -141,8 +141,6 @@ I'm actively exploring <b>data analytics</b> and <b>QA/testing</b> roles, where 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=alaka-cell&style=for-the-badge&color=6A67FE" alt="profile views"/>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A67FE&height=100&section=footer"/>
 
 <!---
 alaka-cell/alaka-cell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
